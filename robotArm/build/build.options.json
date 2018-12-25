@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=c:\\Users\\peera\\Desktop\\robotDemo\\robotArm\\build,build.warn_data_percentage=75",
+  "fqbn": "espressif:esp32:nano32:FlashFreq=80,UploadSpeed=921600",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\peera\\AppData\\Local\\Arduino15\\packages,C:\\Users\\peera\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\peera\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "c:\\Users\\peera\\Desktop\\robotDemo\\robotArm\\robotArm.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\peera\\AppData\\Local\\Arduino15\\packages"
+}

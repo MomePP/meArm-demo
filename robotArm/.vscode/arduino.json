@@ -1,0 +1,7 @@
+{
+    "board": "espressif:esp32:nano32",
+    "configuration": "FlashFreq=80,UploadSpeed=921600",
+    "port": "COM30",
+    "sketch": "robotArm.ino",
+    "output": "./build"
+}
